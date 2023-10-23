@@ -1,5 +1,4 @@
 # Code Formatting
-\
 ### Indents
 All code indents/tabs should be spaces of 2. \
 You can change the output of your tab key to type 2 spaces \
