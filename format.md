@@ -1,6 +1,6 @@
 # Code Formatting
 ## Indents
-All code indents/tabs should be spaces of 4. \
+All code indents/tabs should be spaces of 4.
 > Hint: You can change the output of your tab key to type 4 spaces.
 ### Example:
 ```java
