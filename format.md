@@ -1,11 +1,28 @@
 # Code Formatting
 ### Indents
 All code indents/tabs should be spaces of 4. \
-You can change the output of your tab key to type 4 spaces \
+Hint:
+> You can change the output of your tab key to type 4 spaces.
 Example:
 ```java
-for(int i = 0; i < 10; i++) {
+for (int i = 0; i < 10; i++) {
 ⎵⎵⎵⎵System.out.println(i);
+}
+```
+
+### Spacing
+All program kewwords (Ex: for, in, while, not, etc.) \
+and grouping operators (Ex: (), {}, []) shall be seperated \
+by a space.
+Examples:
+```java
+if (condition) {
+    ...
+}
+```
+```java
+while (condition) {
+    ...
 }
 ```
 
