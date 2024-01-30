@@ -1,20 +1,20 @@
 # Code Formatting
-### Indents
+## Indents
 All code indents/tabs should be spaces of 4. \
-Hint:
-> You can change the output of your tab key to type 4 spaces.
-Example:
+> Hint:
+> You can change the output of your tab key to type 4 spaces. \
+### Example:
 ```java
 for (int i = 0; i < 10; i++) {
 ⎵⎵⎵⎵System.out.println(i);
 }
 ```
 
-### Spacing
+## Spacing
 All program kewwords (Ex: for, in, while, not, etc.) \
 and grouping operators (Ex: (), {}, []) shall be seperated \
 by a space.
-Examples:
+### Examples:
 ```java
 if (condition) {
     ...
@@ -26,7 +26,7 @@ while (condition) {
 }
 ```
 
-### Python
+## Python
 ```python
 def function_name(a: Type1, b: Type1 | Type2) -> ReturnType:
     ''' funcion_name takes two variables {a} and {b} and does ...
