@@ -7,7 +7,6 @@
 ## Indents
 All code indents/tabs should be 4 spaces in width.
 > Hint: You can change the output of your tab key to type 4 spaces.
-### Example
 ```java
 for (int i = 0; i < 10; i++) {
 ⎵⎵⎵⎵System.out.println(i);
@@ -17,8 +16,7 @@ for (int i = 0; i < 10; i++) {
 ## Spacing
 All program kewwords (Ex: for, in, while, not, etc.) \
 and operators (Ex: +, -, *, /, %, (), etc.) shall be seperated \
-by a space. 
-### Examples
+by a space.
 ```java
 if⎵(condition)⎵{
     ...
@@ -37,7 +35,7 @@ int x = (1 + 2);
 ```
 
 #### Outside of Parentheses
-The "outside" of a parentheses shall onot have a space if it is used as a "call" operator.
+The "outside" of a parentheses shall not have a space if it is used as a "calling" operator.
 ```java
 int x = getNumber();
 //               ^ No Space
@@ -55,7 +53,7 @@ int value = array[0];
 //               ^ No Space
 ```
 
-#### Memory Operators and Pointers
+#### References and Pointers
 Memory address operators like '&' and '*' shall be placed after DataType declaration and before variable name. \
 There shall also be no space used to seperate operator from operatee.
 ```cpp
