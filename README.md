@@ -1,14 +1,11 @@
 # Code Formatting
 - [Indents](#indents)
 - [Spacing](#spacing)
-  - [Exceptions](#exceptions)
 - [Python](#python)
   
 ## Indents
-All code indents/tabs should be 4 spaces in width.
-
+All code indents/tabs should be 4 spaces in width to improve readability.
  > Hint: You can change the output of your tab key to type 4 spaces.
-
 ```java
 	for (int i = 0; i < 10; i++) {
 	⎵⎵⎵⎵System.out.println(i);
@@ -21,7 +18,7 @@ and operators (Ex: +, -, *, /, %, (), <, >, <=, >=, ^, **, etc.) shall be sepera
 by a space.
 ```cpp
 	if⎵(condition)⎵{
-		...
+	    ...
 	}
 ```
 ```cpp
